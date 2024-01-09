@@ -1,0 +1,62 @@
+KORTTIEN TIEDOT
+
+yhteinen salasana: 1234
+
+1. (wt toimii)
+FI7777777
+asiakas 1, tili 2
+
+3. (wt toimii)
+FI888888
+asiakas 1, tili 2
+
+4. (wt toimii)
+FI9999
+asiakas 3, tili 2
+
+5. (wt toimii)
+FI12341234
+asiakas 1, tili 2
+
+8. (webtoken toimii)
+idKortti: 8.
+Kortti_nro: FI235648
+idAsiakas: 4 
+idTili: 4 (debit)
+pin: 0000
+
+
+9. (webtoken toimii)
+idKortti: 9.
+Kortti_nro: FI235598
+idAsiakas: 5.
+idTili: 5 (debit)
+pin: 0001
+
+10. (webtoken toimii)
+idKortti: 10.
+Kortti_nro: FI238998
+idAsiakas: 6.
+idTili: 6 (credit)
+pin: 0002
+
+11. (webtoken toimii)
+idKortti: 11.
+Kortti_nro: FI526599
+idAsiakas: 7.
+idTili: 7. (debit)
+pin: 0003.
+
+16. (lätkä 1)
+idKortti: 13
+Kortti_nro: 06000DA96A
+idAsiakas: 4
+idTili: 4 (debit)
+pin: 1234 (0002)
+
+17. (lätkä 2)
+idKortti: 12
+Kortti_nro: 06000D89B4
+idAsiakas: 6 
+idTili: 6 (credit)
+pin: 5678 (0000)
